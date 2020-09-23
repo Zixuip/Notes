@@ -1,0 +1,19 @@
+{
+  "name": "Lastest",
+  "version": "0.0.1",
+  "description": "vuejs",
+  "main": "index.js",
+  "authors": {
+    "name": "zixu",
+    "email": ""
+  },
+  "repository": "/Lastest",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
